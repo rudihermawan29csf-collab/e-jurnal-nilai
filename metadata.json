@@ -1,0 +1,5 @@
+{
+  "name": "SMPN 3 Pacet - Sistem Informasi Nilai",
+  "description": "Aplikasi manajemen nilai siswa online dengan antarmuka macOS/Apple style, terintegrasi dengan data guru, siswa, dan monitoring nilai akademik.",
+  "requestFramePermissions": []
+}
